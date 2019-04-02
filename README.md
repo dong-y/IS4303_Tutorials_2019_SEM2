@@ -14,3 +14,5 @@
 ## Tutorial 5. Ensemble Learning Methods
 ## Tutorial 6. Installing MATLAB
 ## Tutorial 7. Introduction to Probability and Statistics
+
+## Please Open Jupyter Notebooks in Chrome Browser
